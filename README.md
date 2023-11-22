@@ -155,9 +155,6 @@ VITE_GLOB_DOMAIN_URL=http://jeecg-boot-gateway:9999
 ```
 
 
-
-
-
 系统交互
 ![](https://oscimg.oschina.net/oscnet/up-78b151fc888d4319377bf1cc311fe826871.png)
 
