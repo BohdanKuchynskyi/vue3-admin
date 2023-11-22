@@ -1,62 +1,11 @@
-JEECG BOOT 低代码开发平台（Vue3前端）
-===============
-当前最新版本： 3.6.0（发布时间：2023-10-23）
-
-[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE)
-[![](https://img.shields.io/badge/Author-北京国炬软件-orange.svg)](http://jeecg.com/aboutusIndex)
-[![](https://img.shields.io/badge/Blog-官方博客-blue.svg)](https://jeecg.blog.csdn.net)
-[![](https://img.shields.io/badge/version-3.6.0-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg-boot)
+Vue3 Admin
 
 
-
-## 简介
-JeecgBoot-Vue3采用 Vue3.0、Vite、 Ant-Design-Vue3、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。
-是采用Vben实现的 JeecgBoot低代码平台的全新vue3版本。
- 
-> 强大的代码生成器让前后端代码一键生成! JeecgBoot引领低代码开发模式(OnlineCoding-> 代码生成-> 手工MERGE)， 帮助解决Java项目70%的重复工作，让开发更多关注业务。既能快速提高效率，节省成本，同时又不失灵活性
-
-## 技术支持
-
-关闭Gitee的issue通道，使用中遇到问题或者BUG可以在 [Github上提Issues](https://github.com/jeecgboot/jeecgboot-vue3/issues/new)
-
-官方支持： http://jeecg.com/doc/help
+## Installation and use
 
 
-## 源码下载
-
-- 后台源码 ：https://github.com/jeecgboot/jeecg-boot
-- 前端源码 ：https://github.com/jeecgboot/jeecgboot-vue3
-
-##### 项目说明
-
-| 项目名                | 说明                                      | 
-|--------------------|-----------------------------------------|
-| `jeecgboot-vue3` | 前端源码Vue3版下载                             | 
-| `jeecg-boot`    | 后端JAVA源码下载（SpringBoot+SpringCloud） | 
-
-## 开发环境搭建
-
-- [前端开发环境准备](https://help.jeecg.com/setup/dev.html)
-- [前端项目快速启动](https://help.jeecg.com/setup/startup.html)
-- [通过IDEA启动项目](https://help.jeecg.com/java/setup/idea/startup.html)
-
-## 技术文档
-
--   官方文档：[http://help.jeecg.com](http://help.jeecg.com)
--   官方网站： [http://www.jeecg.com](http://www.jeecg.com)
--   快速入门：[快速入门](http://jeecg.com/doc/quickstart) | [常见问题](http://help.jeecg.com/qa.html) | [视频教程](https://www.bilibili.com/video/BV1V34y187Y9 "入门视频") |  [ 代码生成](http://help.jeecg.com/vue3/codegen/online.html)
--   QQ交流群：⑧825232878、⑦791696430(满)、683903138(满)
--   在线演示 ：  [Vue3演示](http://boot3.jeecg.com)   | [APP演示](http://jeecg.com/appIndex)|  [敲敲云零代码](https://www.qiaoqiaoyun.com)
-> 演示系统的登录账号密码，请点击 [获取账号密码](http://jeecg.com/doc/demo) 获取
-
-
-## 安装与使用
-
-
- > 环境要求: 版本要求Node 14.18+ / 16+ 版本以上，不再支持 Node 12 / 13 / 15。
- > 建议使用pnpm，如果使用yarn,请用Yarn1.x版本，否则依赖可能安装不上。
+ > Environment requirements: The version requires Node 14.18+ / 16+ and above. Node 12 / 13 / 15 is no longer supported.
+ > It is recommended to use pnpm. If you use yarn, please use Yarn1.x version, otherwise the dependencies may not be installed.
 
   
 - Get the project code
